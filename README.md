@@ -70,7 +70,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
              <td align="center">
                 <a href="https://github.com/Bhumi-Ratawal">
-                    <img src="https://avatars.githubusercontent.com/u/183258153?v=4" width="100px;" alt="Bhumi Ratawal"/>
+                    <img src="https://avatars.githubuse" width="100px;" alt="Bhumi Ratawal"/>
                     <br />
                     <sub><b>Bhumi Ratawal</b></sub>
                 </a>
